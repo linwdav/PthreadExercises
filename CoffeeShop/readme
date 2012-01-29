@@ -1,0 +1,9 @@
+coffeeshop.c should be compiled with c99 and lpthread.  It will throw the following warning:
+
+coffeeshop.c: In function ‘doWork’:
+coffeeshop.c:119: warning: implicit declaration of function ‘usleep’
+
+A possible explanation is that "POSIX.1-2008 removes the specification of usleep()".
+Despite this warning, the program worked correctly on my machine.
+
+Another note: The program will take a few minutes to run.

@@ -1,0 +1,28 @@
+DotProduct
+===========
+The DotProduct program takes two command-line arguments, say, N and T. The program computes the dot-product (or scalar product) of two randomly generated vectors of N integer elements. The program first allocates one array for each vector, and fills them in with random integers. It then computes the scalar product using only the main thread, and prints out the results.
+
+Then, the program does the same computation again, but using T newly created threads. Each thread computes a partial dot-product, and these do-products are then added together to produce the final answer. Then the threads all terminate and the program prints out the results as above. Both results should match. The work should be partitioned among the threads as equally as possible. For instance, for N=44 and T=5, the 5 threads should process 7, 7, 7, 6, and 6 elements of each array, respectively.
+
+
+
+CoffeeShop
+===========
+The CoffeeShop program is a simulation where customer threads contend for two available bathrooms. There is a board, on which two keys can be hanged, one key for each bathroom. When a customer arrives in front of the board, it can take a key and use a bathroom, returning the key later. If no keys are on the board, then the customer goes to sleep. When a customer returns a key, it wakes up a sleeping customer, if any, that can then take the key.
+
+Customers run based on the following pseudo-code:
+
+ 	print("Customer %d enters the coffee shop\n",id);
+	for (int i=0; i < 10; i++) {
+		drink coffee
+		get key
+		use bathroom
+		return key
+	}
+	print("Customer %d leaves the coffee shop\n",id);
+
+where the "drink coffee" and "use bathroom" operations simply print a message like "Customer 4 is drinking coffee" and sleep a random number of microseconds between 2,000,000 and 10,000,000 microseconds, using the usleep() standard C function. The point of the exercise is to implement the "get key" and "return key" operations, which should also print messages, as seen in sample output below.
+
+All threads should end up gaining access to the bathroom, that no more than two threads are using the bathrooms at the same time, and that two threads can be using the bathrooms at the same time.
+
+The CoffeeShop program takes two integer command-line arguments, say N and seed. The program starts N customer threads, each of which produces output. The seed argument is used to seed the random number generator.

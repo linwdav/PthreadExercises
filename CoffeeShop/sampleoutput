@@ -1,0 +1,193 @@
+Thread 1 enters the coffee shop
+Thread 3 enters the coffee shop
+Thread 2 enters the coffee shop
+Thread 0 enters the coffee shop
+Thread 1 is drinking coffee
+Thread 2 is drinking coffee
+Thread 3 is drinking coffee
+Thread 0 is drinking coffee
+Thread 2 got a key
+Thread 2 is using the bathroom
+Thread 3 got a key
+Thread 3 is using the bathroom
+Thread 1 is waiting for a key
+Thread 0 is waiting for a key
+Thread 3 put a key back on the board
+Thread 3 is drinking coffee
+Thread 1 got a key
+Thread 1 is using the bathroom
+Thread 0 is waiting for a key
+Thread 3 is waiting for a key
+Thread 2 put a key back on the board
+Thread 2 is drinking coffee
+Thread 0 got a key
+Thread 0 is using the bathroom
+Thread 3 is waiting for a key
+Thread 1 put a key back on the board
+Thread 1 is drinking coffee
+Thread 3 got a key
+Thread 3 is using the bathroom
+Thread 0 put a key back on the board
+Thread 0 is drinking coffee
+Thread 2 got a key
+Thread 2 is using the bathroom
+Thread 3 put a key back on the board
+Thread 3 is drinking coffee
+Thread 1 got a key
+Thread 1 is using the bathroom
+Thread 0 is waiting for a key
+Thread 2 put a key back on the board
+Thread 2 is drinking coffee
+Thread 0 got a key
+Thread 0 is using the bathroom
+Thread 1 put a key back on the board
+Thread 1 is drinking coffee
+Thread 3 got a key
+Thread 3 is using the bathroom
+Thread 2 is waiting for a key
+Thread 0 put a key back on the board
+Thread 0 is drinking coffee
+Thread 2 got a key
+Thread 2 is using the bathroom
+Thread 0 is waiting for a key
+Thread 3 put a key back on the board
+Thread 3 is drinking coffee
+Thread 0 got a key
+Thread 0 is using the bathroom
+Thread 1 is waiting for a key
+Thread 2 put a key back on the board
+Thread 2 is drinking coffee
+Thread 1 got a key
+Thread 1 is using the bathroom
+Thread 2 is waiting for a key
+Thread 0 put a key back on the board
+Thread 0 is drinking coffee
+Thread 2 got a key
+Thread 2 is using the bathroom
+Thread 1 put a key back on the board
+Thread 1 is drinking coffee
+Thread 0 got a key
+Thread 0 is using the bathroom
+Thread 3 is waiting for a key
+Thread 0 put a key back on the board
+Thread 0 is drinking coffee
+Thread 3 got a key
+Thread 3 is using the bathroom
+Thread 2 put a key back on the board
+Thread 2 is drinking coffee
+Thread 1 got a key
+Thread 1 is using the bathroom
+Thread 0 is waiting for a key
+Thread 3 put a key back on the board
+Thread 3 is drinking coffee
+Thread 0 got a key
+Thread 0 is using the bathroom
+Thread 2 is waiting for a key
+Thread 0 put a key back on the board
+Thread 0 is drinking coffee
+Thread 2 got a key
+Thread 2 is using the bathroom
+Thread 1 put a key back on the board
+Thread 1 is drinking coffee
+Thread 0 got a key
+Thread 0 is using the bathroom
+Thread 3 is waiting for a key
+Thread 1 is waiting for a key
+Thread 2 put a key back on the board
+Thread 2 is drinking coffee
+Thread 3 got a key
+Thread 3 is using the bathroom
+Thread 1 is waiting for a key
+Thread 0 put a key back on the board
+Thread 0 is drinking coffee
+Thread 1 got a key
+Thread 1 is using the bathroom
+Thread 0 is waiting for a key
+Thread 3 put a key back on the board
+Thread 3 is drinking coffee
+Thread 0 got a key
+Thread 0 is using the bathroom
+Thread 2 is waiting for a key
+Thread 1 put a key back on the board
+Thread 1 is drinking coffee
+Thread 2 got a key
+Thread 2 is using the bathroom
+Thread 1 is waiting for a key
+Thread 0 put a key back on the board
+Thread 0 is drinking coffee
+Thread 1 got a key
+Thread 1 is using the bathroom
+Thread 2 put a key back on the board
+Thread 2 is drinking coffee
+Thread 3 got a key
+Thread 3 is using the bathroom
+Thread 2 is waiting for a key
+Thread 1 put a key back on the board
+Thread 1 is drinking coffee
+Thread 2 got a key
+Thread 2 is using the bathroom
+Thread 3 put a key back on the board
+Thread 3 is drinking coffee
+Thread 0 got a key
+Thread 0 is using the bathroom
+Thread 3 is waiting for a key
+Thread 0 put a key back on the board
+Thread 0 is drinking coffee
+Thread 3 got a key
+Thread 3 is using the bathroom
+Thread 1 is waiting for a key
+Thread 2 put a key back on the board
+Thread 2 is drinking coffee
+Thread 1 got a key
+Thread 1 is using the bathroom
+Thread 3 put a key back on the board
+Thread 3 is drinking coffee
+Thread 0 got a key
+Thread 0 is using the bathroom
+Thread 3 is waiting for a key
+Thread 1 put a key back on the board
+Thread 1 is drinking coffee
+Thread 3 got a key
+Thread 3 is using the bathroom
+Thread 0 put a key back on the board
+Thread 0 is drinking coffee
+Thread 2 got a key
+Thread 2 is using the bathroom
+Thread 0 is waiting for a key
+Thread 2 put a key back on the board
+Thread 2 is drinking coffee
+Thread 0 got a key
+Thread 0 is using the bathroom
+Thread 1 is waiting for a key
+Thread 3 put a key back on the board
+Thread 3 is drinking coffee
+Thread 1 got a key
+Thread 1 is using the bathroom
+Thread 0 put a key back on the board
+Thread 0 leaves the coffee shop
+Thread 2 got a key
+Thread 2 is using the bathroom
+Thread 2 put a key back on the board
+Thread 2 is drinking coffee
+Thread 3 got a key
+Thread 3 is using the bathroom
+Thread 1 put a key back on the board
+Thread 1 is drinking coffee
+Thread 3 put a key back on the board
+Thread 3 is drinking coffee
+Thread 2 got a key
+Thread 2 is using the bathroom
+Thread 2 put a key back on the board
+Thread 2 leaves the coffee shop
+Thread 1 got a key
+Thread 1 is using the bathroom
+Thread 3 got a key
+Thread 3 is using the bathroom
+Thread 3 put a key back on the board
+Thread 3 leaves the coffee shop
+Thread 1 put a key back on the board
+Thread 1 is drinking coffee
+Thread 1 got a key
+Thread 1 is using the bathroom
+Thread 1 put a key back on the board
+Thread 1 leaves the coffee shop
