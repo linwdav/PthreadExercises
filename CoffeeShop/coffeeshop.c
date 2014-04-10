@@ -11,7 +11,8 @@
 
 
 /* Thread argument structure. */
-typedef struct Struct {
+typedef struct Struct 
+{
 	int id;
 	int *numKeys;
 	pthread_mutex_t *key;
@@ -21,13 +22,17 @@ typedef struct Struct {
 
 /* Function declaration. */
 void *doWork(void *arg);
+
 int getRandom();
 
 
 /* Execute program. */
-int main(int argc, char *argv[]) {
+int main(int argc, char *argv[]) 
+        {
 	// Check that there are two command-line arguments
-	if (argc < 3) {
+	
+	if (argc < 3) 
+	{
 		printf("Usage: ./coffeeshop <# of threads> <seed time> \n");
 		exit(0);
 	}
